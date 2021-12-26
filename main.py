@@ -1,4 +1,4 @@
-# Python3 Program to find the
+ # Python3 Program to find the
 #  net amount of products after 10% discount on the articles
 
 # storing the amount of 1 Article in  "num"
